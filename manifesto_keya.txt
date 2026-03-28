@@ -1,0 +1,3 @@
+On 28 March 2026, I believe in open source.
+Tools like Git represent Being able to write free software.
+I aim to build Better Git and share it freely.
